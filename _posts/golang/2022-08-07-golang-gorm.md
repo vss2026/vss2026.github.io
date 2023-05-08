@@ -56,7 +56,7 @@ oracle을 이용 하고 싶다면 별도의 [driver](https://github.com/cengsin/
 ### 정리
  Q1. 현재 소스 코드에 남아있는 'type:'의 경우 사용해야 하는가?
 
-  > 사용 하지 않아도 됩니다. 위 [TAG종류](#GORM-TAG-종류)를 확인해보면 CRUD시 적용되지 않기에 현재는 사용 할 필요가 없습니다.
+  > 사용 하지 않아도 됩니다. #GORM-TAG-종류를 확인해보면 CRUD시 적용되지 않기에 현재는 사용 할 필요가 없습니다.
     type 태그는 AutoMigrate을 이용할 때 적용이 됩니다.
 
 Q2. default:CURRENT_TIMESTAMP()를 회피하는 방법
