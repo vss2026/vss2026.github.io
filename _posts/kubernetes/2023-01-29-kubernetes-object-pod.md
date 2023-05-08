@@ -126,7 +126,7 @@ options
 
 ### Node Scheduling
 
-![Node Scheduling](Node%20Scheduling1.png)
+![Node Scheduling](Node-Scheduling1.png)
 
 ~~~
 1. Node 선택
@@ -155,9 +155,9 @@ options
 ~~~
 
 ##### Node Affinity
-![Node Affinity](Node%20Affinity.png)
+![Node Affinity](Node-Affinity.png)
 ##### Node Affinity, Pod Affinity, Taint, Toleration
-![Node Scheduling2](Node%20Scheduling2.png)
+![Node Scheduling2](Node-Scheduling2.png)
 ~~~
 1. Node Affinity
   - matchExpressions: replicaSet의 설정과 동일하게 사용이 가능
