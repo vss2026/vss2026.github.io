@@ -78,6 +78,7 @@ order: 4
 		<li>Docker</li>
 		<li>Nginx</li>
 		<li>Kubernetes</li>
+		<li>Mysql</li>
 	</ul>
 
 	<h2>경력 기술서</h2>
